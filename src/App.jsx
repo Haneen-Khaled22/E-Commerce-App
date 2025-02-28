@@ -23,10 +23,11 @@ import FormLogin from "./Components/Form/FormLogin";
 import Login from "./Pages/Login";
 import Rjester from "./Pages/Register";
 import Register from "./Pages/Register";
-import ProtectedRoute from "./Components/ProtectedRoute";
+
 import AddProduct from "./Components/Form/AddProject";
 import { Toaster } from "react-hot-toast";
 import LogContext from "./contexts/logContext";
+import ProtectedRoute from "./Components/ProtectedRoute";
 
 const routes = createBrowserRouter([
   {
