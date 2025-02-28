@@ -1,0 +1,21 @@
+body {
+  margin: 0 !important;
+  padding: 0 !important;
+  box-sizing: border-box;
+}
+h1 {
+  font-size: 24px;
+  font-weight: 600;
+  margin: 0;
+  line-height: 2;
+}
+dl,
+ol,
+ul {
+  margin: 0 !important;
+}
+
+a {
+  all: unset !important;
+  cursor: pointer !important;
+}

@@ -1,0 +1,193 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "Elite Executive Suit",
+      "price": 500,
+      "quantity": 1,
+      "imgURL": "https://www.goelia1995.com/cdn/shop/files/1711348522986_720x.png?v=1711351080",
+      "categoryID": 1,
+      "matrial": "Violet T-shirt",
+      "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Sint iure magni eum commodi sunt. Magnam quod asperiores aut voluptatem, beatae culpa sapiente corporis magni repellendus aspernatur quos voluptatibus odio dolorem! Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolor deserunt omnis nisi maiores hic repellendus quisquam, neque et eligendi voluptate. Eveniet error cupiditate nulla, quibusdam facilis nostrum magni ullam quo."
+    },
+    {
+      "id": "5",
+      "name": "Heritage Tailored Suit",
+      "price": 600,
+      "quantity": 1,
+      "imgURL": "https://dimg.dillards.com/is/image/DillardsZoom/nav2/jones-new-york-roll-cuff-notch-lapel-34-sleeve-blazer/00000001_zi_ae40327c-73f6-48be-bd54-00e0779a1279.jpg",
+      "categoryID": 1,
+      "matrial": "Black T-shirt",
+      "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Sint iure magni eum commodi sunt. Magnam quod asperiores aut voluptatem, beatae culpa sapiente corporis magni repellendus aspernatur quos voluptatibus odio dolorem! Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolor deserunt omnis nisi maiores hic repellendus quisquam, neque et eligendi voluptate. Eveniet error cupiditate nulla, quibusdam facilis nostrum magni ullam quo."
+    },
+    {
+      "id": "2588",
+      "name": "Signature Sharp Suit",
+      "price": 540,
+      "quantity": 1,
+      "imgURL": "https://cdn.prod.website-files.com/676eb533fc85a4a340e80a98/676eb533fc85a4a340e80ae0_slider%20img%201-min.png",
+      "categoryID": 1,
+      "matrial": "White T-shirt",
+      "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Sint iure magni eum commodi sunt. Magnam quod asperiores aut voluptatem, beatae culpa sapiente corporis magni repellendus aspernatur quos voluptatibus odio dolorem! Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolor deserunt omnis nisi maiores hic repellendus quisquam, neque et eligendi voluptate. Eveniet error cupiditate nulla, quibusdam facilis nostrum magni ullam quo."
+    },
+    {
+      "id": "9999",
+      "name": "Urban Sophistication Suit",
+      "price": 500,
+      "quantity": 1,
+      "imgURL": "https://www.stylerave.com/wp-content/uploads/2022/10/IMG_2309-e1665852459676.jpg",
+      "categoryID": 1,
+      "matrial": "Violet T-shirt",
+      "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Sint iure magni eum commodi sunt. Magnam quod asperiores aut voluptatem, beatae culpa sapiente corporis magni repellendus aspernatur quos voluptatibus odio dolorem! Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolor deserunt omnis nisi maiores hic repellendus quisquam, neque et eligendi voluptate. Eveniet error cupiditate nulla, quibusdam facilis nostrum magni ullam quo."
+    },
+    {
+      "id": "878",
+      "name": "The Classic Gentleman Suit",
+      "price": 600,
+      "quantity": 1,
+      "imgURL": "https://img.freepik.com/premium-photo/overcoat-overcoat-standing-fashion_53876-468348.jpg",
+      "categoryID": 1,
+      "matrial": "Black T-shirt",
+      "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Sint iure magni eum commodi sunt. Magnam quod asperiores aut voluptatem, beatae culpa sapiente corporis magni repellendus aspernatur quos voluptatibus odio dolorem! Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolor deserunt omnis nisi maiores hic repellendus quisquam, neque et eligendi voluptate. Eveniet error cupiditate nulla, quibusdam facilis nostrum magni ullam quo."
+    },
+    {
+      "id": "25",
+      "name": "Metropolitan Luxe Suit",
+      "price": 540,
+      "quantity": 1,
+      "imgURL": "https://i.pinimg.com/236x/62/f5/43/62f543277d074f95557f3f3913edc341.jpg",
+      "categoryID": 1,
+      "matrial": "White T-shirt",
+      "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Sint iure magni eum commodi sunt. Magnam quod asperiores aut voluptatem, beatae culpa sapiente corporis magni repellendus aspernatur quos voluptatibus odio dolorem! Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolor deserunt omnis nisi maiores hic repellendus quisquam, neque et eligendi voluptate. Eveniet error cupiditate nulla, quibusdam facilis nostrum magni ullam quo."
+    },
+    {
+      "id": "6867",
+      "name": "Bespoke Royalty Suit",
+      "price": 500,
+      "quantity": 1,
+      "imgURL": "https://img.freepik.com/premium-photo/portrait-three-girls-beige-white-casual-clothes_1001890-1283.jpg",
+      "categoryID": 1,
+      "matrial": "Violet T-shirt",
+      "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Sint iure magni eum commodi sunt. Magnam quod asperiores aut voluptatem, beatae culpa sapiente corporis magni repellendus aspernatur quos voluptatibus odio dolorem! Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolor deserunt omnis nisi maiores hic repellendus quisquam, neque et eligendi voluptate. Eveniet error cupiditate nulla, quibusdam facilis nostrum magni ullam quo."
+    },
+    {
+      "id": "5121",
+      "name": "Supreme Luxe Suit",
+      "price": 600,
+      "quantity": 1,
+      "imgURL": "https://images.ctfassets.net/prxuf37q3ta2/2Hop8p4h2LDKfrzAQDQZ41/c9f537d67dafdf0d7421b3adbfca6a38/Resized_suit.jpg",
+      "categoryID": 1,
+      "matrial": "Black T-shirt",
+      "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Sint iure magni eum commodi sunt. Magnam quod asperiores aut voluptatem, beatae culpa sapiente corporis magni repellendus aspernatur quos voluptatibus odio dolorem! Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolor deserunt omnis nisi maiores hic repellendus quisquam, neque et eligendi voluptate. Eveniet error cupiditate nulla, quibusdam facilis nostrum magni ullam quo."
+    },
+    {
+      "id": "25455",
+      "name": "Weekend Chic Suit",
+      "price": 540,
+      "quantity": 1,
+      "imgURL": "https://members.asicentral.com/media/um3p024q/quiet-luxury-720.jpg",
+      "categoryID": 1,
+      "matrial": "White T-shirt",
+      "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Sint iure magni eum commodi sunt. Magnam quod asperiores aut voluptatem, beatae culpa sapiente corporis magni repellendus aspernatur quos voluptatibus odio dolorem! Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolor deserunt omnis nisi maiores hic repellendus quisquam, neque et eligendi voluptate. Eveniet error cupiditate nulla, quibusdam facilis nostrum magni ullam quo."
+    },
+    {
+      "id": "5108",
+      "name": "Vow Perfection Suit",
+      "price": 312,
+      "quantity": 1,
+      "imgURL": "https://img.freepik.com/premium-photo/elegance-wear_1246590-4978.jpg",
+      "categoryID": 1,
+      "matrial": "Metal",
+      "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Sint iure magni eum commodi sunt. Magnam quod asperiores aut voluptatem, beatae culpa sapiente corporis magni repellendus aspernatur quos voluptatibus odio dolorem! Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolor deserunt omnis nisi maiores hic repellendus quisquam, neque et eligendi voluptate. Eveniet error cupiditate nulla, quibusdam facilis nostrum magni ullam quo."
+    },
+    {
+      "id": "1454",
+      "name": "Dapper Everyday Suit",
+      "price": 500,
+      "quantity": 1,
+      "imgURL": "https://static.fibre2fashion.com/Newsresource/images/290/h-m_301741.jpg",
+      "categoryID": 1,
+      "matrial": "Violet T-shirt",
+      "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Sint iure magni eum commodi sunt. Magnam quod asperiores aut voluptatem, beatae culpa sapiente corporis magni repellendus aspernatur quos voluptatibus odio dolorem! Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolor deserunt omnis nisi maiores hic repellendus quisquam, neque et eligendi voluptate. Eveniet error cupiditate nulla, quibusdam facilis nostrum magni ullam quo."
+    },
+    {
+      "id": "32435",
+      "name": "The Prestige Collection",
+      "price": 600,
+      "quantity": 1,
+      "imgURL": "https://cdn.luxe.digital/media/2019/11/20125613/suit-women-business-casual-style-luxe-digital.jpg",
+      "categoryID": 1,
+      "matrial": "Black T-shirt",
+      "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Sint iure magni eum commodi sunt. Magnam quod asperiores aut voluptatem, beatae culpa sapiente corporis magni repellendus aspernatur quos voluptatibus odio dolorem! Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolor deserunt omnis nisi maiores hic repellendus quisquam, neque et eligendi voluptate. Eveniet error cupiditate nulla, quibusdam facilis nostrum magni ullam quo."
+    },
+    {
+      "id": "232225",
+      "name": "Next-Gen Tailor Fit",
+      "price": 540,
+      "quantity": 1,
+      "imgURL": "https://nineinthemorning.com/cdn/shop/files/1_2048x.webp?v=1727250418",
+      "categoryID": 1,
+      "matrial": "White T-shirt",
+      "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Sint iure magni eum commodi sunt. Magnam quod asperiores aut voluptatem, beatae culpa sapiente corporis magni repellendus aspernatur quos voluptatibus odio dolorem! Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolor deserunt omnis nisi maiores hic repellendus quisquam, neque et eligendi voluptate. Eveniet error cupiditate nulla, quibusdam facilis nostrum magni ullam quo."
+    },
+    {
+      "id": "4fad",
+      "name": "Cloudnairy",
+      "price": 1000,
+      "quantity": 1,
+      "imgURL": "https://res.cloudinary.com/drlxfoudx/image/upload/v1740620128/rj0kz8rinsuem6539uin.avif"
+    }
+  ],
+  "users": [
+    {
+      "id": "2a76",
+      "name": "Haneen Khaled",
+      "email": "haneenk385@gmail.com",
+      "phone": "01140531309",
+      "password": "12345",
+      "rePassword": "12345"
+    },
+    {
+      "id": "41d2",
+      "name": "Haneen",
+      "email": "haneen.khaled.hussein@gmail.com",
+      "phone": "01140531309",
+      "password": "01234",
+      "rePassword": "01234"
+    },
+    {
+      "id": "37c0",
+      "name": "Haneen",
+      "email": "haneen@gmail.com",
+      "phone": "01140531309",
+      "password": "56789",
+      "rePassword": "56789"
+    },
+    {
+      "id": "a069",
+      "name": "hanen",
+      "email": "haneen44@gmail.com",
+      "phone": "01140531309",
+      "password": "45678",
+      "rePassword": "45678"
+    },
+    {
+      "id": "c7ad",
+      "name": "hanen",
+      "email": "haneenk35@gmail.com",
+      "phone": "01140531309",
+      "password": "56789",
+      "rePassword": "56789"
+    }
+  ],
+  "contacts": [
+    {
+      "id": "10c0",
+      "fname": "haneen",
+      "lname": "khaled",
+      "email": "haneenk385@gmail.com",
+      "phone": "01140531309",
+      "text": "Hello evevry one"
+    }
+  ]
+}
